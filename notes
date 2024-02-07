@@ -1,0 +1,9 @@
+# Table of Contents
+
+# Bcrypt and passwords
+
+Authentication is the process of verifying that a user is who they say they are. Authentication is usually done by asking the user for a username and password. 
+
+Bcrypt is a hashing algorithm that is used to encrypt passwords. It is a one-way encryption algorithm, meaning that once a password is encrypted, it cannot be decrypted. 
+
+File and Data Manipulation
